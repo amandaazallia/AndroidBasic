@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+<!--magnitude-->
+    <color name="magnitude1">#2C3E50</color>
+
+    <color name="magnitude2">#2C3E50</color>
+
+    <color name="magnitude3">#10CAC9</color>
+
+    <color name="magnitude4">#F5A623</color>
+
+    <color name="magnitude5">#FF7D50</color>
+
+    <color name="magnitude6">#FC6644</color>
+
+    <color name="magnitude7">#E75F40</color>
+
+    <color name="magnitude8">#E13A20</color>
+
+    <color name="magnitude9">#D93218</color>
+
+    <color name="magnitude10plus">#C03823</color>
+
+    <!--text colors-->
+    <color name="textColorEarthquakeDetails">#B4BAC0</color>
+    <color name="textColorEarthquakeLocation">#2B3D4D</color>
+</resources>
